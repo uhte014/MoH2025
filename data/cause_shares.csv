@@ -1,0 +1,45 @@
+year,group,cause,pct,pct_lo,pct_hi,source,page,note
+2025,<1,prematurity_lbw,20.5,,,MoH 2025 mortality report,18,Figure 16 / Table 4
+2025,<1,war,17.7,,,MoH 2025 mortality report,18,141 deaths per text p.18
+2025,<1,congenital_malformations,17.3,,,MoH 2025 mortality report,18,
+2025,<1,infectious_diseases,10.2,,,MoH 2025 mortality report,18,
+2025,<1,septicaemia,9.4,,,MoH 2025 mortality report,18,Shown separately in 2025
+2025,<1,resp_perinatal,7.7,,,MoH 2025 mortality report,18,
+2025,<1,malnutrition_metabolic,4.1,,,MoH 2025 mortality report,18,
+2025,<1,heart,3.8,,,MoH 2025 mortality report,18,
+2025,<1,sids_unknown,2.1,,,MoH 2025 mortality report,18,
+2025,<1,other_resp,1.9,,,MoH 2025 mortality report,18,
+2025,<1,other_accidents,0.9,,,MoH 2025 mortality report,18,
+2025,<1,meningitis_encephalitis,0.6,,,MoH 2025 mortality report,18,
+2025,<1,diarrhoea_gastroenteritis,0.4,,,MoH 2025 mortality report,18,
+2025,<1,other_infectious,0.4,,,MoH 2025 mortality report,18,
+2022,<1,congenital_malformations,35.8,,,MoH 2022 annual report,37,Figure 6.10 / Table 6.4
+2022,<1,prematurity_lbw,20.6,,,MoH 2022 annual report,37,
+2022,<1,sids_unknown,17.9,,,MoH 2022 annual report,37,
+2022,<1,resp_perinatal,9.1,,,MoH 2022 annual report,37,
+2022,<1,infectious_incl_sepsis,5.1,,,MoH 2022 annual report,37,Footnote: includes septicaemia; diarrhoea and gastroenteritis; meningococcal infection
+2022,<1,malnutrition_metabolic,3.7,,,MoH 2022 annual report,37,
+2022,<1,other_accidents,0.4,,,MoH 2022 annual report,37,2025 report Table 4 shows this 0.4 under 'operation of war' for 2022
+2022,<1,meningitis_encephalitis,0.4,,,MoH 2022 annual report,37,
+2025,1-4,war,84.5,,,MoH 2025 mortality report,19,Figure 17
+2025,1-4,other_accidents,3.6,,,MoH 2025 mortality report,19,
+2025,1-4,transport,1.0,,,MoH 2025 mortality report,19,
+2025,5-19,war_incl_other_accidents,95.8,,,MoH 2025 mortality report,19,Figure 18; no 'other accidents' bar shown
+2025,5-19,transport,0.4,,,MoH 2025 mortality report,19,
+2025,20-59,war_incl_other_accidents,89.6,,,MoH 2025 mortality report,20,Figure 19; no 'other accidents' bar shown
+2025,20-59,transport,0.2,,,MoH 2025 mortality report,20,
+2025,60+,war_incl_other_accidents,22.9,,,MoH 2025 mortality report,20,Figure 20; no accident bars shown
+2022,1-4,other_accidents,13.9,,,MoH 2022 annual report,38,Figure 6.11
+2022,1-4,transport,12.3,,,MoH 2022 annual report,38,
+2022,5-19,other_accidents,25.7,,,MoH 2022 annual report,38,Figure 6.12
+2022,5-19,transport,6.8,,,MoH 2022 annual report,38,
+2022,20-59,other_accidents,9.4,,,MoH 2022 annual report,38,Figure 6.13
+2022,20-59,transport,0.75,0,1.5,MoH 2022 annual report,38,Not listed; below smallest listed share (1.5)
+2022,60+,accidents_all,0.5,0,1.0,MoH 2022 annual report,39,Not listed; below smallest listed share (1.0)
+2025,male,war,73.8,,,MoH 2025 mortality report,17,Figure 14
+2025,male,other_accidents,7.5,,,MoH 2025 mortality report,17,
+2025,male,transport,0.3,,,MoH 2025 mortality report,17,
+2025,female,war,60.1,,,MoH 2025 mortality report,17,Figure 15
+2025,female,other_accidents,2.6,,,MoH 2025 mortality report,17,
+2025,female,transport,0.1,,,MoH 2025 mortality report,17,
+2025,female,pregnancy_obstetric,0.1,0.05,0.15,MoH 2025 mortality report,17,

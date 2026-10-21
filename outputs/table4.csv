@@ -1,0 +1,9 @@
+panel,scenario,completeness,implied_nonviolent,implied_excess,multiple_of_registered
+A. Illustrative scenarios,Registration complete,1,7364,1494.4352635918567,1
+A. Illustrative scenarios,No age group below its 2022 level,0.9738172731826933,7561.993612962413,1692.4288765542697,1.1324872463772955
+A. Illustrative scenarios,90% complete,0.9,8182.222222222222,2312.6574858140784,1.5475126572265396
+A. Illustrative scenarios,Home deaths missed at their 2022 share (16.7%),0.833,8840.336134453783,2970.771398045639,1.9878889841674552
+A. Illustrative scenarios,75% complete,0.75,9818.666666666666,3949.1019302585228,2.64253797167962
+B. Completeness implied by the GMS estimate,"GMS excess, lower 95% bound",0.7748678523622746,9503.555964478319,3633.9912280701756,2.431681931364442
+B. Completeness implied by the GMS estimate,"GMS excess, central estimate",0.5796001669288703,12705.310350443231,6835.745614035088,4.574132972214171
+B. Completeness implied by the GMS estimate,"GMS excess, upper 95% bound",0.4638726367664941,15875.047192548494,10005.482456140351,6.695159502655403

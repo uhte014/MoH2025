@@ -1,0 +1,56 @@
+id,year,value,unit,source,page,note
+pop,2022,2196407,persons,MoH 2022 annual report,3,Population end of 2022 (Demographic indicators table)
+pop,2025,2127034,persons,MoH 2025 mortality report,5,PCBS 2025 population used by MoH for rates
+births,2022,57442,live births,MoH 2022 annual report,3,Total births
+births,2025,50227,live births,MoH 2025 mortality report,12,Live births registered and monitored
+deaths_total,2022,6061,deaths,MoH 2022 annual report,34,All registered deaths
+deaths_total,2025,24650,deaths,MoH 2025 mortality report,6,All registered deaths
+deaths_male,2022,3202,deaths,MoH 2022 annual report,34,
+deaths_female,2022,2859,deaths,MoH 2022 annual report,34,
+deaths_male,2025,18085,deaths,MoH 2025 mortality report,6,
+deaths_female,2025,6565,deaths,MoH 2025 mortality report,6,
+war,2025,17286,deaths,MoH 2025 mortality report,6,Operations of war (direct targeting)
+accidents,2025,1584,deaths,MoH 2025 mortality report,6,Other accidents plus road traffic accidents
+accidents_rate_per100k,2022,8.9,per 100000,MoH 2022 annual report,36,Table 6.3 'Accidents'; 2025 report Table 3 labels the same 8.9 as 'war & accidents'
+cdr_per1000,2018,2.76,per 1000,MoH 2022 annual report,34,Figure 6.2
+cdr_per1000,2019,2.67,per 1000,MoH 2022 annual report,34,Figure 6.2
+gms_baseline_2025,2025,6043,deaths,GMS Lancet Glob Health 2026,4,US Census Bureau projection of nonviolent deaths for 2025 (pre-war projection; emigration makes it somewhat high)
+gms_nonviolent,2023,16300,deaths,GMS Lancet Glob Health 2026,5,7 Oct 2023 to 5 Jan 2025; 95% CI 12300-20200
+gms_nonviolent_lo,2023,12300,deaths,GMS Lancet Glob Health 2026,5,
+gms_nonviolent_hi,2023,20200,deaths,GMS Lancet Glob Health 2026,5,
+gms_excess,2023,8540,deaths,GMS Lancet Glob Health 2026,5,95% CI 4540-12500
+gms_excess_lo,2023,4540,deaths,GMS Lancet Glob Health 2026,5,
+gms_excess_hi,2023,12500,deaths,GMS Lancet Glob Health 2026,5,
+gms_days,2023,456,days,GMS Lancet Glob Health 2026,2,7 Oct 2023 to 5 Jan 2025
+gms_pop,2023,2230000,persons,GMS Lancet Glob Health 2026,2,Sampling frame: 2.23 million pre-conflict residents
+home_death_share,2022,0.167,share,MoH 2022 annual report,34,Deaths at home (hospital 81.2%; other places 2.1%)
+age_total,2022:<1,619,deaths,MoH 2022 annual report,37,Infant deaths
+age_share_pct,2022:1-4,2.7,% of all deaths,MoH 2022 annual report,37,
+age_share_pct,2022:5-19,4.4,% of all deaths,MoH 2022 annual report,38,
+age_share_pct,2022:20-59,22.0,% of all deaths,MoH 2022 annual report,38,
+age_share_pct,2022:60+,60.7,% of all deaths,MoH 2022 annual report,39,
+age_total,2025:<1,796,deaths,MoH 2025 mortality report,12,
+age_total,2025:1-4,883,deaths,MoH 2025 mortality report,19,
+age_total,2025:5-19,5225,deaths,MoH 2025 mortality report,19,
+age_total,2025:20-59,13378,deaths,MoH 2025 mortality report,20,
+age_total,2025:60+,4368,deaths,MoH 2025 mortality report,20,
+asdr_75plus,2022,104.5,per 1000,MoH 2022 annual report,35,All-cause death rate aged 75+
+asdr_75plus,2025,95.6,per 1000,MoH 2025 mortality report,11,All-cause (incl. war) death rate aged 75+
+stillbirths,2025,494,stillbirths,MoH 2025 mortality report,14,
+stillbirths_moh,2022,302,stillbirths,MoH 2022 annual report,13,Table 3.2.6 MoH hospitals; consistent with 2022 perinatal rate 9.73
+stillbirths_all,2022,327,stillbirths,MoH 2022 annual report,13,Table 3.2.6 all hospitals (MoH + NGO + MMS + private)
+perinatal_rate,2022,9.73,per 1000 total births,MoH 2022 annual report,34,
+perinatal_rate,2025,15.85,per 1000 total births,MoH 2025 mortality report,14,
+infdeath_share_0_6d,2022,42.0,% of infant deaths,MoH 2025 mortality report,13,Table 2
+infdeath_share_7_27d,2022,19.7,% of infant deaths,MoH 2025 mortality report,13,Table 2
+infdeath_share_28_364d,2022,38.3,% of infant deaths,MoH 2025 mortality report,13,Table 2
+infdeath_share_0_6d,2025,38.9,% of infant deaths,MoH 2025 mortality report,13,Table 2
+infdeath_share_7_27d,2025,23.0,% of infant deaths,MoH 2025 mortality report,13,Table 2
+infdeath_share_28_364d,2025,38.1,% of infant deaths,MoH 2025 mortality report,13,Table 2
+maternal_deaths,2022,10,deaths,MoH 2022 annual report,39,8 in MoH hospitals and 2 at home (p.13)
+gms_nv_rate,2023,7.2,per 1000 per year,GMS Lancet Glob Health 2026,5,Crude nonviolent death rate per person-time (Table 4)
+gms_nv_rate_lo,2023,5.40,per 1000 per year,GMS Lancet Glob Health 2026,5,
+gms_nv_rate_hi,2023,8.93,per 1000 per year,GMS Lancet Glob Health 2026,5,
+hospital_deliveries,2022,54694,deliveries,MoH 2022 annual report,13,Table 3.2.6 all hospitals
+unknown_cause_share_pct,2022,5.8,% of all deaths,MoH 2022 annual report,36,Figure 6.9 'Unknown and unspecified'
+unknown_cause_share_pct,2025,0.4,% of all deaths,MoH 2025 mortality report,16,Figure 13 'Unknown and unspecified'
